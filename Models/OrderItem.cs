@@ -1,4 +1,4 @@
-amespace PR9.Models;
+namespace PR9.Models;
 
 public partial class OrderItem
 {

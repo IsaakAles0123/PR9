@@ -1,4 +1,4 @@
-amespace PR9.DTOs;
+namespace PR9.DTOs;
 
 public class ProductDto
 {
